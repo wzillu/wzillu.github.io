@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wzillu.csgad.com/igC/sitemap.xml.gz
